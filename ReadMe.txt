@@ -1,3 +1,5 @@
 NGUI
 1.解决无法打开Prefab
 2.可视化OpenPrefab状态下的UI
+使用方式:
+将dll文件及cs脚本放入Editor文件夹下即可
